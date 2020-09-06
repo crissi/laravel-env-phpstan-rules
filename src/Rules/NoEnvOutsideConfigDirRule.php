@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
 
-namespace Crissi\LaravelEnvPhpstanRules;
+namespace Crissi\LaravelEnvPhpstanRules\Rules;
 
 use PHPStan\Analyser\Scope;
 use Illuminate\Support\Str;
