@@ -7,6 +7,6 @@ include rules.neon in your project's PHPStan config:
 
 ```
 includes:
-    - vendor/canvural/larastan-strict-rules/rules.neon
+    - vendor/crissi/laravel-env-phpstan-rules/rules.neon
 ```
 </details>
